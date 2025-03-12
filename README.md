@@ -13,5 +13,3 @@ O pipeline captura mensagens enviadas via API de bots do Telegram, transforma os
 2. Siga o passo a passo documentado
 3. Veja as análises e insights obtidos
 
----
-📌 **Este repositório contém apenas o Storytelling e a documentação para manter a organização simples e direta.**
